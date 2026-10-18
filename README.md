@@ -29,13 +29,13 @@ A full-stack database project built with **MySQL** and **Python**, designed to m
 
 ## 📂 Project Structure
 
-gradia/
+```gradia/
 ├── schema.sql # Database schema definition
 ├── generate_data.py # Generates realistic synthetic data
 ├── db_setup.py # Loads CSV data into MySQL
 ├── Queries.sql # Analytical queries + views
 └── data/ # Generated CSV data files
-
+```
 
 ---
 
