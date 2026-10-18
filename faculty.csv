@@ -1,0 +1,13 @@
+faculty_id,first_name,last_name,department,email
+1,Isaac,Bakshi,Computer Engineering,faculty1@sinhgad.edu
+2,Anvi,Konda,Computer Engineering,faculty2@sinhgad.edu
+3,Udant,Dewan,E&TC,faculty3@sinhgad.edu
+4,Harsh,Chahal,IT,faculty4@sinhgad.edu
+5,Pahal,Balay,IT,faculty5@sinhgad.edu
+6,Ayushman,Chander,IT,faculty6@sinhgad.edu
+7,Tejas,Kaul,Computer Engineering,faculty7@sinhgad.edu
+8,Yashasvi,Bala,Civil,faculty8@sinhgad.edu
+9,Rushil,Saini,Computer Engineering,faculty9@sinhgad.edu
+10,Thomas,Sen,Civil,faculty10@sinhgad.edu
+11,Arunima,Ahuja,Mechanical,faculty11@sinhgad.edu
+12,Nathaniel,Sami,Computer Engineering,faculty12@sinhgad.edu

@@ -1,0 +1,61 @@
+student_id,first_name,last_name,dob,email,enrollment_year,branch
+1,Arunima,Dugal,2006-06-30,student1@sinhgad.edu,2023,Computer Engineering
+2,Gayathri,Chaudry,2005-06-06,student2@sinhgad.edu,2023,IT
+3,Lajita,Chatterjee,2004-05-22,student3@sinhgad.edu,2025,Civil
+4,Hemangini,Lalla,2006-08-27,student4@sinhgad.edu,2023,Civil
+5,Tripti,Yadav,2003-12-20,student5@sinhgad.edu,2023,Civil
+6,Kritika,Brar,2004-08-29,student6@sinhgad.edu,2024,IT
+7,Chaaya,Pathak,2008-04-18,student7@sinhgad.edu,2024,Civil
+8,Rehaan,Boase,2008-07-05,student8@sinhgad.edu,2024,Computer Engineering
+9,Vedant,Mann,2003-12-28,student9@sinhgad.edu,2023,Mechanical
+10,Viraj,Chaudhuri,2004-04-11,student10@sinhgad.edu,2024,E&TC
+11,Arunima,Setty,2006-11-01,student11@sinhgad.edu,2023,IT
+12,Nicholas,Prabhakar,2006-09-14,student12@sinhgad.edu,2024,Computer Engineering
+13,Shaurya,Loke,2006-08-15,student13@sinhgad.edu,2023,Mechanical
+14,Onveer,Walla,2004-03-16,student14@sinhgad.edu,2023,E&TC
+15,Nihal,Shere,2005-09-06,student15@sinhgad.edu,2024,Civil
+16,Anamika,Kanda,2006-10-29,student16@sinhgad.edu,2024,Computer Engineering
+17,Daksh,Karnik,2006-05-11,student17@sinhgad.edu,2025,Mechanical
+18,Diya,Rattan,2003-11-15,student18@sinhgad.edu,2025,Computer Engineering
+19,Dominic,Kakar,2005-11-16,student19@sinhgad.edu,2024,Computer Engineering
+20,Divya,Kala,2008-06-04,student20@sinhgad.edu,2025,E&TC
+21,Meghana,Shanker,2007-11-06,student21@sinhgad.edu,2025,Civil
+22,Alka,Dewan,2004-10-24,student22@sinhgad.edu,2024,Civil
+23,Adya,Sangha,2005-09-12,student23@sinhgad.edu,2023,Computer Engineering
+24,Mohini,Pathak,2008-07-24,student24@sinhgad.edu,2023,IT
+25,Lakshit,Upadhyay,2005-06-19,student25@sinhgad.edu,2024,Computer Engineering
+26,Gavin,Batta,2007-10-19,student26@sinhgad.edu,2023,Computer Engineering
+27,Michael,Dutta,2004-07-13,student27@sinhgad.edu,2024,E&TC
+28,Devansh,Rajan,2007-03-11,student28@sinhgad.edu,2024,E&TC
+29,Upadhriti,Wadhwa,2006-11-05,student29@sinhgad.edu,2023,E&TC
+30,Advay,Contractor,2005-09-27,student30@sinhgad.edu,2024,IT
+31,Amara,Oak,2008-03-02,student31@sinhgad.edu,2025,E&TC
+32,Chaaya,Saran,2004-07-19,student32@sinhgad.edu,2025,Computer Engineering
+33,Sudiksha,Aggarwal,2004-12-11,student33@sinhgad.edu,2025,IT
+34,Xiti,Gokhale,2005-11-03,student34@sinhgad.edu,2025,IT
+35,Hitesh,Misra,2007-12-02,student35@sinhgad.edu,2023,Mechanical
+36,Rushil,Dua,2007-12-02,student36@sinhgad.edu,2024,E&TC
+37,Neel,Zacharia,2006-10-12,student37@sinhgad.edu,2025,Civil
+38,Aadi,Naik,2008-02-10,student38@sinhgad.edu,2023,E&TC
+39,Anirudh,Choudhury,2007-10-04,student39@sinhgad.edu,2023,IT
+40,Damyanti,Khatri,2006-09-08,student40@sinhgad.edu,2023,E&TC
+41,Wridesh,Brar,2004-02-03,student41@sinhgad.edu,2024,E&TC
+42,Vedika,Biswas,2004-04-30,student42@sinhgad.edu,2023,IT
+43,Jeremiah,Dave,2008-02-18,student43@sinhgad.edu,2025,E&TC
+44,Noah,Lanka,2007-08-23,student44@sinhgad.edu,2023,Mechanical
+45,Pallavi,Kakar,2008-02-02,student45@sinhgad.edu,2024,Mechanical
+46,Sai,Muni,2008-03-09,student46@sinhgad.edu,2023,E&TC
+47,Kashvi,Sarma,2006-12-29,student47@sinhgad.edu,2023,IT
+48,Siya,Dara,2008-01-02,student48@sinhgad.edu,2025,Civil
+49,Umang,Bhatt,2005-09-16,student49@sinhgad.edu,2025,E&TC
+50,Ansh,Karpe,2006-06-23,student50@sinhgad.edu,2025,Civil
+51,Abhimanyu,Bobal,2005-06-22,student51@sinhgad.edu,2024,Civil
+52,Veer,Bir,2004-02-06,student52@sinhgad.edu,2024,E&TC
+53,Ganga,Bobal,2003-11-13,student53@sinhgad.edu,2023,IT
+54,Wazir,Mallick,2007-12-22,student54@sinhgad.edu,2025,Mechanical
+55,Tanish,Zacharia,2007-09-24,student55@sinhgad.edu,2023,Computer Engineering
+56,Urvashi,Kibe,2004-09-22,student56@sinhgad.edu,2023,IT
+57,Niharika,Gupta,2007-08-16,student57@sinhgad.edu,2025,IT
+58,Gunbir,Sankar,2004-05-27,student58@sinhgad.edu,2025,Mechanical
+59,Pallavi,Roy,2006-08-12,student59@sinhgad.edu,2025,Computer Engineering
+60,Chatura,Chaudhari,2007-07-28,student60@sinhgad.edu,2024,Mechanical

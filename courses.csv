@@ -1,0 +1,36 @@
+course_id,course_name,credits,semester,faculty_id,capacity,branch
+1,Data Structures,4,3,12,50,Computer Engineering
+2,Database Management Systems,4,4,12,50,Computer Engineering
+3,Operating Systems,4,5,12,40,Computer Engineering
+4,Object Oriented Programming,3,2,1,60,Computer Engineering
+5,Artificial Intelligence,3,6,12,50,Computer Engineering
+6,Machine Learning,4,7,7,40,Computer Engineering
+7,Compiler Design,3,6,7,50,Computer Engineering
+8,Web Technologies,3,4,4,50,IT
+9,Computer Networks,3,5,4,60,IT
+10,Software Engineering,3,5,6,50,IT
+11,Cloud Computing,3,7,6,40,IT
+12,Cyber Security Fundamentals,3,6,6,40,IT
+13,Database Management Systems,4,4,6,50,IT
+14,Theory of Computation,3,5,6,60,IT
+15,Digital Electronics,4,3,3,40,E&TC
+16,Signals and Systems,3,4,3,40,E&TC
+17,Microprocessors,4,5,3,60,E&TC
+18,Communication Systems,3,5,3,50,E&TC
+19,VLSI Design,3,6,3,40,E&TC
+20,Embedded Systems,3,6,3,50,E&TC
+21,Control Systems,3,4,3,40,E&TC
+22,Thermodynamics,4,3,11,60,Mechanical
+23,Fluid Mechanics,4,4,11,40,Mechanical
+24,Machine Design,3,5,11,40,Mechanical
+25,Manufacturing Processes,3,4,11,40,Mechanical
+26,Heat Transfer,3,5,11,60,Mechanical
+27,Automobile Engineering,3,6,11,50,Mechanical
+28,CAD/CAM,3,6,11,40,Mechanical
+29,Structural Analysis,4,3,8,60,Civil
+30,Surveying,3,3,10,50,Civil
+31,Geotechnical Engineering,4,4,10,50,Civil
+32,Concrete Technology,3,5,10,40,Civil
+33,Transportation Engineering,3,5,8,40,Civil
+34,Environmental Engineering,3,6,8,50,Civil
+35,Construction Management,3,6,8,60,Civil
